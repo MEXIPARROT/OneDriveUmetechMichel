@@ -1,0 +1,9 @@
+C:\Users\miche\Desktop\temp work\ConsoleApp1\ClassLibrary1\obj\Debug\netstandard2.0\OneDriveAPI.csproj.CoreCompileInputs.cache
+C:\Users\miche\Desktop\temp work\ConsoleApp1\ClassLibrary1\obj\Debug\netstandard2.0\OneDriveAPI.AssemblyInfoInputs.cache
+C:\Users\miche\Desktop\temp work\ConsoleApp1\ClassLibrary1\obj\Debug\netstandard2.0\OneDriveAPI.AssemblyInfo.cs
+C:\Users\miche\Desktop\temp work\ConsoleApp1\ClassLibrary1\bin\Debug\netstandard2.0\OneDriveAPI.deps.json
+C:\Users\miche\Desktop\temp work\ConsoleApp1\ClassLibrary1\bin\Debug\netstandard2.0\OneDriveAPI.dll
+C:\Users\miche\Desktop\temp work\ConsoleApp1\ClassLibrary1\bin\Debug\netstandard2.0\OneDriveAPI.pdb
+C:\Users\miche\Desktop\temp work\ConsoleApp1\ClassLibrary1\obj\Debug\netstandard2.0\OneDriveAPI.dll
+C:\Users\miche\Desktop\temp work\ConsoleApp1\ClassLibrary1\obj\Debug\netstandard2.0\OneDriveAPI.pdb
+C:\Users\miche\Desktop\temp work\ConsoleApp1\ClassLibrary1\obj\Debug\netstandard2.0\OneDriveAPI.csprojAssemblyReference.cache
